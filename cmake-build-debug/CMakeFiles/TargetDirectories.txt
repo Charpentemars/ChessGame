@@ -1,0 +1,4 @@
+/Users/khamzat/Desktop/programmation/info7/Seance2/cmake-build-debug/CMakeFiles/start.dir
+/Users/khamzat/Desktop/programmation/info7/Seance2/cmake-build-debug/CMakeFiles/test.dir
+/Users/khamzat/Desktop/programmation/info7/Seance2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/khamzat/Desktop/programmation/info7/Seance2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
