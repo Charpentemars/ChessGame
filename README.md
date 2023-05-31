@@ -15,6 +15,13 @@ user@myComputer ~ % make start
 user@myComputer ~ % ./start
 ```
 
+## Features
+
+- [x] Basic functions (empty, get_square, etc)
+- [x] Basic display (print_square and print_board)
+- [x] FEN rating (write_FEN et read_FEN)
+- [ ] 
+
 ## Contributing
 
 If you want to contribute to the project, make sure the project is still executable after creating the CMake files
