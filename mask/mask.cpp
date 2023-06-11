@@ -1,6 +1,3 @@
-// TP Info7 : Jeu d'Echec
-// Antoine Ducourant & Khamzat Baoudinov : Team \(^_^)/
-
 #include "../board/board.hpp"
 #include "../view/view.hpp"
 #include "../mask/mask.hpp"
