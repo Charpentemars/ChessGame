@@ -35,6 +35,7 @@ user@myComputer ~ % ./start
 ## Contributing
 
 Special thanks to Khamzat Baoudinov with whom I collaborated for the realization of this project.
+
 If you want to contribute to the project, make sure the project is still executable after creating the CMake files.
 
 ## License
