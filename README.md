@@ -20,7 +20,15 @@ user@myComputer ~ % ./start
 - [x] Basic functions (empty, get_square, etc)
 - [x] Basic display (print_square and print_board)
 - [x] FEN rating (write_FEN et read_FEN)
-- [ ] 
+- [x] Color display
+- [x] Construction of masks
+- [x] Lists of Possible Moves / Lists of Movable Pieces / Lists of Attacking Pieces / List of Takeable Pieces
+- [x] Player's gameplay
+- [ ] Random gameplay
+- [ ] I.A gameplay
+- [ ] History of pieces taken
+- [x] King in check
+- [ ] Time system
 
 ## Contributing
 
