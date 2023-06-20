@@ -2,7 +2,7 @@
 
 The game of chess, or chess, is a board game between two players on either side of a board called a "chessboard" made up of sixty-four squares, 32 light and 32 dark, called the white squares and the black boxes. This game was completely recreated in C as part of a university project.
 
-⚠️ The displays and comments in the code were written in French following a constraint in the specifications given by my university. A version with postings and comments in English will be available later as soon as I have the possibility.
+⚠️ All of the code and function comments were designed in French. An English language version is planned later.
 
 ## Installation
 First of all, make sure you have an IDE or a terminal allowing the compilation and interpretation of the C language (VS Code, CLion, Code::Blocks, ...) as well as the CMake utility to carry out correctly compiling.
